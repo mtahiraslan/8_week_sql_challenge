@@ -26,7 +26,7 @@ All datasets exist within the dannys_diner database schema - be sure to include 
 ![img3](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/table_members.JPG?raw=true)
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/84286efbdf15af47af983ec47e4c07ba174040cb/Case%20Study%20%23%201%20-%20Danny's%20Diner/ERD.jpg)
+![alt text](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/ER-Diagram.jpg?raw=true)
 
 ## Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
