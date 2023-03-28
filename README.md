@@ -16,7 +16,7 @@ Note:
 
 ## Case Studies
 
-* [🍜 Case Study #1 - Danny's Diner](https://link-url-here.org)
+* [🍜 Case Study #1 - Danny's Diner](https://github.com/mtahiraslan/8_week_sql_challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 
 ## Support
 
