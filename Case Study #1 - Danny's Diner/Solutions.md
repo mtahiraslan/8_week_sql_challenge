@@ -332,7 +332,7 @@ ORDER BY
 ``` 
 	
 #### Result:
-![image](https://user-images.githubusercontent.com/77529445/167406964-25276db9-fe1c-4608-8b77-b0970b156888.png)
+![image](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/bonus_solution1.JPG?raw=true)
 
 ***
 
@@ -367,7 +367,7 @@ ORDER BY
 ``` 
 
 #### Result:
-![image](https://user-images.githubusercontent.com/77529445/167407504-41d02dd0-0bd1-4a3c-8f41-00ae07daefad.png)
+![image](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/bonus_solution2.JPG?raw=true)
 
 ***
 
