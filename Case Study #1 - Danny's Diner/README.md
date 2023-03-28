@@ -18,7 +18,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
-## Example Datasets
+## Datasets Used
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 ![img1](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/table_sales.JPG?raw=true)
