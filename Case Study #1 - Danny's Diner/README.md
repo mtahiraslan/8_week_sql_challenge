@@ -21,7 +21,7 @@ He plans on using these insights to help him decide whether he should expand the
 ## Datasets used
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
-![img1]()
+![img1](https://github.com/mtahiraslan/8_week_sql_challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/images/table_sales.JPG?raw=true)
 ![img2]()
 ![img3]()
 
