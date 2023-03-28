@@ -5,7 +5,7 @@
 ## Table Of Contents
   - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
-  - [Example Datasets](#datasets-used)
+  - [Datasets Used](#datasets-used)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
   - [Case Study Questions](#case-study-questions)
   
